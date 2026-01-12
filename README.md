@@ -2,7 +2,7 @@
 
 This repository contains implementations and analysis tools for reduced-order modeling (ROM) and data-driven system identification applied to turbulent flow datasets. The project focuses on extracting low-dimensional dynamical representations from high-dimensional velocity field data using established and modern techniques.
 
-This work was carried out as part of the **AS5401 – Advanced Fluid Mechanics** course at the **Indian Institute of Technology Madras**.
+This work was carried out as part of the **AS5401 – Data Driven Modelling of Complex Aerospace Systems** course at the **Indian Institute of Technology Madras**.
 
 ---
 
